@@ -1,0 +1,256 @@
+	Part one
+
+
+
+	'My dear fellow,' said Sherlock Holmes as we sat by the fire in his house at Baker Street, 'real life is infinitely stranger than anything we could invent. We would not dare invent things, which are commonplace things of life. If we could go out of that window, fly over this great city, gently remove the roofs of houses and look at the peculiar things that are happening, the strange coincidences, the plans, and the wonderful chains of events, we would discover things much more interesting than in books.'
+
+	'But I do not believe it,' I answered. 'The stories in the newspapers are never very interesting. In fact, they are always very boring.'
+
+	'That is because,' said Holmes, 'newspapers always repeat the official reports of magistrates and police reports. Yon can be certain that there is nothing as unnatural and strange as the commonplace.'
+
+	'I know,' I replied, 'that your cases are always very interesting, but let us look at today's newspaper,'
+
+	I picked up the newspaper and began to read an article. It was about a husband who was cruel to his wife.
+
+	'I don't have to read the article,' I said, 'but I am sure that the man had a girlfriend, that he drank and that he began to hit his wife. I am also sure that there was a sympathetic sister or landlady.'
+
+	'You have chosen a bad example, Watson,' said Holmes, 'because I have worked on this case. The man, Mr Dundas, did not have a girlfriend and he did not drink and he did not hit her. Instead, at the end of every meal he took out his false teeth and threw them at his wife. You must admit that nobody could invent such a story!'
+
+	'Do you have any interesting cases now?' I asked.
+
+	'Well, I am working on ten or twelve cases, but none of them are interesting. They are important, you understand, without being interesting. I have found that unimportant matters are usually more interesting. If there is a big crime, the motive is generally obvious. So, they are generally not very interesting. But I think I will have an interesting case in a few minutes.'
+
+	Holmes was standing at the window and looking down at the dull, grey London streets. There was a woman standing in the street. She was moving her hands nervously. It was obvious that she could not make up her mind.
+
+	Then suddenly she ran across the road and rang Holmes' doorbell.
+
+	'I know those symptoms,' said Holmes. 'When a woman hesitates like that on the pavement, it means that she has a love problem. She wants help, but she thinks that her problem is too delicate to communicate. But when a woman does not hesitate and rings the doorbell hard, it means she was seriously wronged. In this case, this woman is confused and perplexed, and wants an explanation.' As Holmes was speaking, the servant announced Miss Mary Sutherland, she was a large woman. She wore a hat with a red feather, a black jacket, a dark brown dress and grey glove.
+
+	She also wore round gold earrings.
+
+	When Holmes saw her he said, 'Isn't it difficult for you to type with such bad eyesight.'
+
+	'I thought so at first,' Miss Sutherland replied, 'but now I can type without looking at the keys.' Then she looked surprised and frightened when she understood that Holmes already knew so much about her.
+
+	'How do you know that?' asked Miss Sutherland.
+
+	'It is my business to know things,' said Holmes laughing. 'If I could not see these things, why would people come to me? In any case, I can see the marks of the glasses on your nose.'
+
+	'I have come here,' she said, 'because I want to know where Mr Hosmer Angel has gone.'
+
+	'Why did you come here in such a hurry?' asked Holmes.
+
+	Once again Miss Sutherland looked very surprised. Holmes then explained that her boots were not the same and that they were not completely buttoned.
+
+	'Yes, I did hurry out of the house because I was angry at Mr Windibank, that is, my father. He did not want to ask the police about Mr Angel. He said that nothing bad had happened. This made me angry so I came here to see you.'
+
+	'Your father?' said Holmes. 'He must be your stepfather because his surname is different from yours.'
+
+	'Yes, my stepfather. I call him father, even though that seems strange to me. You see, he is only five years older than me.'
+
+	'And is your mother alive?' asked Holmes.
+
+	'Oh, yes, mother is alive and well,' answered Miss Sutherland, 'but I was not happy when she married Mr Windibank so soon after father died. Also, Mr Windibank is fifteen years younger than mother. Father was a plumber and had a good business, and when he died mother continued the business. But when she married Mr Windibank, he made her sell it.'
+
+	'Do you live on the money from the business?' asked Holmes.
+
+	'Oh no,' replied Miss Sutherland, 'I inherited some money from my uncle. I cannot touch it, but with the interest I receive one hundred pounds a year.'
+
+	'That should be enough for you to live quite comfortably,' said Holmes.
+
+	'I give that money to mother, and I live on the money I make typing,' she replied.
+
+	'Now, can you tell us about Mr Hosmer Angel?' asked Holmes.
+
+	Miss Sutherland blushed deeply and said, 'I met him at the plumbers' ball. They used to send tickets to my father when he was alive, and after he died they sent them to my mother. But Mr Windibank didn't want us to go. He said that my father's friends were not good enough for us. But the day of the ball, Mr Windibank went to France on business, so mother and I went to the hall, and it was there I met Mr Angel.'
+
+	'I suppose,' said Holmes, 'that Mr Windibank was very angry with you when he discovered that you had gone to the ball.'
+
+	'No, not very,' replied Miss Sutherland, 'he said that it was impossible to stop a woman when she really wanted something.'
+
+	'And did you see Mr Hosmer after the ball?' asked Holmes.
+
+	'Yes, but he couldn't come to the house when father was there. Father didn't want anybody to come to the house. So Mr Hosmer said, "We should wait until your father goes to France before we see each other. In the meantime, we can write to each other every day.'"
+
+	'Were you engaged to the gentleman at this time?' asked Holmes.
+
+	'Oh yes, Mr Holmes. We were engaged after the first walk that we took. Mr Angel worked in an office in Leadenhall Street.'
+
+	'Which office?'
+
+	'That's the worst part. I don't know.'
+
+	'Then where did you send your letters?'
+
+	'To the Leadenhall Street Post Office where he got them. He said to me, "The other workers in my office will make fun of me, if they see my letters.'"
+
+	'I told him that I could type my letters, like he did his. But he said, "A typed letter comes from an impersonal machine and not from you." This shows how fond he was of me, Mr Holmes, and the nice little things he thought of.'
+
+	'It was most suggestive,' said Holmes. 'I have always said that the little things are infinitely the most important. Can you remember any other little things about Mr Hosmer Angel?'
+
+	'He was a very shy man, Mr Holmes. He always wanted to walk with me in the evening instead of during the day. He was very gentlemanly. Even his voice was gentle. He told me that he had had a bad infection of the tonsils when he was a child, so he had to whisper. He always wore elegant clothes. His eyes were weak, just like mine, and he wore dark glasses against the sun.'
+
+	'Well, what happened when Mr Windibank returned to France?' asked Holmes.
+
+	'Mr Angel came to my house and said that we should get married before father returned. He was very serious and said, "Put your hand on the Bible and promise me that you will always love me." Mother agreed with him. Mother liked him from the beginning, and liked him even more than I did. When they started talking about our getting married within the week, I asked them if I should ask father first. They said no. I, however, did not want to do anything in secret, so I wrote to father at his office in France. But the letter came back to me on the very day of the wedding.'
+
+	'It missed him then?'
+
+	'Yes, sir, he had started back to England just before the letter arrived in France.'
+
+	'Ha! That was unfortunate. Your wedding was planned then for the Friday of that week. Was it to be in church?'
+
+	'Yes, sir, but very quietly. On the day of the wedding Hosmer came in a hansom to take mother and me to the church. But since there were two of us, mother and I went in the hansom, and Hosmer took a cab. We got to the church first, and when the cab arrived, we waited for him to come out, but he never did. The cabman said that he could not understand what had happened to him.'
+
+	'I think that you have been very badly treated,' said Holmes.
+
+	'Oh no, sir! Hosmer was too good and kind to leave so. Why, all morning before the wedding he said to me, "If anything happens to me, you must always love me. You must wait for me. I will return to you." I thought this very strange to say on the day of our wedding, but his disappearance explains everything.'
+
+	'It certainly does,' said Holmes. 'In your opinion, did he know that he was in danger?'
+
+	'Yes, I think so.'
+
+	'But do you know what the danger was?'
+
+	'No, I don't.'
+
+	'One more question. How did your mother react?'
+
+	'She was angry and told me that I should never speak about him again.'
+
+	'And your father? Did you tell him?'
+
+	'Yes, he said, "Something terrible has happened to Hosmer, but he will return." I agree with my father. Why would Hosmer leave me? After all, there was no money involved. 1 Hosmer did not borrow money from me, and I never put the money which I had inherited in his name. So he did not take my money and leave.'
+
+	Then she pulled out a handkerchief, and began to cry.
+
+	'I will try to solve your problem,' said Holmes, 'but don't think about it anymore. Forget about Mr Angel.'
+
+	'Do you think that I will ever see him again?'
+
+	'No, I'm afraid not.'
+
+	'Then what has happened to him?'
+
+	'You will leave the question with me. Now, I need some of Mr Angel's letters, a good description of him, and also your father's address.'
+
+	'I never had Mr Angel's address,' said Miss Sutherland, 'but here is Mr Windibank's address. He works for a wine importer. Here is the advertisement with a description of Hosmer that I put in the newspaper the Chronicle.'
+
+	Miss Sutherland then left, but before leaving she said, 'I will always wait for Hosmer Angel to return.'
+
+
+
+
+
+	part two
+
+
+
+	When she had left, I asked Holmes about the case.
+
+	'The young woman is quite interesting, but her little problem is not very difficult or unusual. Would you mind reading me the description of Hosmer Angel?' I then read it to Holmes:
+
+	Missing, a gentleman called Hosmer Angel. About 5ft. 7in. tall. He's strongly built with black hair, black sideboards and moustache; he's a little bald in the centre; he wears dark glasses; and he's got a speech defect. He has got a sallow complexion. He was wearing a black coat, black waistcoat, grey trousers and brown boots. Please contact Miss Sutherland etc. etc.
+
+	'That is enough,' said Holmes. 'Now look at these letters which Hosmer wrote to her. What do you see?'
+
+	'They are typed,' I said.
+
+	'Not only that, but the signature is typed too. The point about the signature is very suggestive - in fact, we can call it conclusive.'
+
+	'Of what?'
+
+	'My dear fellow, can't you see how important this fact is to the case?'
+
+	'No, I can't,' I replied, 'unless Hosmer didn't sign his letters because he didn't want to be legally responsible for what he promised.'
+
+	'No, that was not the point,' said Holmes, 'but now I will write two letters which will solve this mystery. One of the letters is to Mr Windibank's firm in the City, and the other one will be to Mr Windibank himself to ask him to come here to meet us tomorrow evening at six o'clock.'
+
+	A few minutes before six the next day I returned to Baker Street. When I walked in, Holmes was doing chemistry experiments.
+
+	'Well, have you solved it?' I said as I walked into the room.
+
+	'Yes, it was the bisulphate of baryta.'
+
+	'No, Miss Sutherland's mystery!' I cried.
+
+	'Oh, that! I thought you were asking me about the chemistry experiment.
+
+	There was never any mystery in the matter. The only problem is that the scoundrel did not do anything illegal, so he can't be punished.'
+
+	'Who was Hosmer Angel, and why did he abandon Miss Sutherland?'
+
+	But Holmes did not have time to answer me, because just then we heard someone knock at the door, and then someone walking towards Holmes' room.
+
+	'This is the girl's stepfather. He wrote to me to say that he was coming,' said Holmes.
+
+	The man who entered the room was a strongly built fellow without sideboards or moustache, with a sallow complexion and he looked at us with a pair of penetrating grey eyes. He was wearing a black top-hat.
+
+	'Good evening, Mr James Windibank,' said Holmes. 'I believe this is the typed letter that you wrote to me to say that you were coming here!'
+
+	'Yes, sir. I am sorry that Miss Sutherland has troubled you about this little problem. Also I don't like other people knowing about our family misfortune. Anyway, I don't think that you will ever find this Hosmer Angel.'
+
+	'On the contrary,' said Holmes quietly, 'I am almost certain that I will find him.'
+
+	Mr Windibank started violently, and dropped his gloves. 'I am happy to hear that,' he said.
+
+	'It is a curious thing,' remarked Holmes, 'that a typewriter is just as distinctive as a man's handwriting. For example, in this letter of yours, I can see that this part of the 'r' has a slight defect. There are also fourteen other characteristics of your typewriter.'
+
+	'We write all the letters in the office with this typewriter,' said Mr Windibank.
+
+	'And now,' continued Holmes, 'I will show you what is really very interesting. In fact, I am thinking about writing a book on the typewriter and its relation to crime.'
+
+	Mr Windibank jumped out of his chair and picked up his hat. 'I cannot waste time over this ridiculous talk. If you can catch the man, catch him, and let me know when you have caught him.'
+
+	'Certainly,' said Holmes, walking over to the door and locking it. 'I let you know that I have caught him.'
+
+	'What! Where?' shouted Mr Windibank becoming white, and looking around like a rat in a trap.
+
+	'You can't get away, Mr Windibank,' said Holmes. 'This case was really very easy. Now sit down and we can talk about it.'
+
+	Mr Windibank fell back into the chair. 'I did not do anything illegal,' he stammered.
+
+	'I am afraid that you are right. But, Mr Windibank, it was a cruel, selfish and heartless trick. Now, let us look at what happened,' said Holmes.
+
+	Then Holmes sat down and began to talk.
+
+	'The man marries a woman older than himself for her money. He can also use the money of the daughter as long as the daughter lives with him and the mother. The daughter has a lot of money so it is important not to lose it.
+
+	But the daughter is friendly and affectionate, so it is clear that she will soon find a husband. At first this man tells the daughter that she cannot go out, but this will not solve the problem forever. Then one day the daughter says that she wants to go to a ball. What does the clever i stepfather do then? With the help of the wife, he disguises himself. He wears dark glasses, and puts on a fake moustache. Then he changes his voice and speaks very softly. He is even more certain that his plan will work because the girl is short-sighted. Then at the ball this man keeps away other lovers by becoming the girl's lover himself.'
+
+	'It was just a joke at first,' groaned Mr Windibank. 'We didn't think that the girl would fall in love.'
+
+	'Yes, that is probably true,' continued Holmes. 'But the girl really fell in love, and you decided to take the situation to the extreme. You began to see her often, and the mother said that she liked him very much. Then you decided to ask Miss Sutherland to marry you so that she would never again think about other men. But it was difficult for you to pretend to go to France every time Miss Sutherland had to see Mr Angel. You had to end the situation dramatically. In some way, you had to keep Miss Sutherland from thinking about other men in the future. Therefore, you made her promise on the Bible, and you told her that something could happen on the very morning of the wedding. You took her to the church, but obviously you could not marry her. You disappeared by using the old trick of entering one door of a cab and walking out the other. I think this is the chain of events, Mr Windibank!'
+
+	'Yes, maybe that is true,' replied Mr Windibank, 'but I did not do anything illegal, and now you are breaking the law because you will not let me leave this room.'
+
+	'You are right. You did not do anything illegal,' said Holmes as he unlocked and opened the door, 'but you really deserve to be punished, and I would do it.'
+
+	Then Holmes picked up a riding-crop, but Mr Windibank ran out the door and out of the house.
+
+	'Now, he certainly is a cold-blooded scoundrel!' said Holmes laughing. 'That fellow will continue doing worse and worse crimes until he does something really bad and finishes on the gallows. In any case, this case had some interesting points.'
+
+	'I cannot completely follow your reasoning in this case,' I said.
+
+	'Well, it was clear from the first, that Mr Hosmer Angel had a very good reason for his actions, and that the only man who could really profit from the situation was the stepfather: he wanted to keep the hundred pounds a year. Then it was very suggestive that Mr Windibank and Mr Hosmer Angel were never together, and so were the dark glasses, the soft voice and the moustache; they all suggested a disguise. The final point was the typed signature. This made me think that the handwriting of the man must be very familiar to Miss Sutherland, and that if she saw even a small portion of it, she would recognise it.'
+
+	'And how did you verify these ideas?' I asked.
+
+	'First I wrote to Mr Windibank's firm. 'In the letter I described Mr Angel after I had eliminated everything that could be a disguise, like the glasses, the moustache and the voice, and I asked them if they had an employee like that. They wrote back to me and said that I had described Mr James Windibank. Then I wrote to Mr Windibank to invite him here, and as I expected he typed his reply to me. Then I compared his letter with the letters of Mr Angel. Voila tout!'
+
+	'And Miss Sutherland?' I asked.
+
+	'If I tell her, she will not believe me,' replied Holmes. 'Maybe you remember this Persian saying, "It is dangerous to take a tiger cub from its mother, and it is dangerous to take a delusion from a woman.'"
+
+
+
+	- THE END -
+
+	Hope you have enjoyed the reading!
+
+	Come back to http://english-e-books.net/ to find more fascinating and exciting stories!
+
+
+
+
+

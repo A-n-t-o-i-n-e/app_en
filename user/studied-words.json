@@ -1,0 +1,842 @@
+[
+  {
+    "en": "oh",
+    "fr": "oh, ah",
+    "mean": "expression of surprise\nexpression of dismay, concern, worry or disapproval",
+    "nature": "interj",
+    "rarity": 0.059,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:43.451593"
+  },
+  {
+    "en": "over",
+    "fr": "fini, termin\u00e9\ne\n",
+    "mean": "ended\nagain\nphysical positioning: on top of; above\nphysical positioning: across or spanning\nmath: divided by\nend of sentence in radio communication\nmorally fair, righteous",
+    "nature": "adj",
+    "rarity": 0.11,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:44.989266"
+  },
+  {
+    "en": "like",
+    "fr": "aimer, plaire (\u00e0) [intransitive, the person who likes is the object of the verb], bien aimer",
+    "mean": "enjoy\nfind attractive\nto show support for, or approval of, something posted on the Internet by marking it with a vote\nsomething that a person likes\nsimilar\nsuch as\nsimilar to\ncolloquial: mild intensifier\ncolloquial: used to precede paraphrased quotations",
+    "nature": "v",
+    "rarity": 0.249,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:45.457449"
+  },
+  {
+    "en": "our",
+    "fr": "notre, nos",
+    "mean": "\u0279\nplural of this",
+    "nature": "determiner",
+    "rarity": 0.102,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:46.060253"
+  },
+  {
+    "en": "learn",
+    "fr": "apprendre, \u00e9tudier",
+    "mean": "to acquire knowledge or ability\nto attend educational activity\nto make use of a bad experience\nto be studying\nto come to know; to become informed of; to find out",
+    "nature": "v",
+    "rarity": 0.0217,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:47.053934"
+  },
+  {
+    "en": "inside",
+    "fr": "int\u00e9rieur ",
+    "mean": "interior or inner part\nwithin the interior\nwithin the interior of something, closest to the center or to a specific point of reference\njoke understood by certain people\nwith the inside turned to be on the outside\nof knowledge: thoroughly\ninside pocket of a garment",
+    "nature": "n",
+    "rarity": 0.0421,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:48.070450"
+  },
+  {
+    "en": "lose",
+    "fr": "perdre\n\n",
+    "mean": "cause something\ntransitive\nshed weight\nhave somebody of one's kin\nbe unable to follow or trace somebody or something\nfail to be the winner\nlose respect of others\nto despair\nunsteady\nbehave irrationally or lose self-control\nto die\nto become insane\nvulgar: to lose one's temper\nto have a sudden burst of emotion\n\u0279\nto stop being a virgin after the first sexual intercourse\nget lost",
+    "nature": "v",
+    "rarity": 0.00921,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:48.257569"
+  },
+  {
+    "en": "keep",
+    "fr": "garder",
+    "mean": "to maintain possession of\nto maintain the condition of; to preserve\nto restrain\nto continue\nof livestock: to raise; to care for\nobserve\nmain tower\nkeep one's cool\nBe quiet\nto watch and pay attention to\nto watch for\nrestrict or restrain\ncourt",
+    "nature": "v",
+    "rarity": 0.0336,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:49.119760"
+  },
+  {
+    "en": "love",
+    "fr": "z\u00e9ro\n",
+    "mean": "zero\nstrong affection\nobject of one's romantic feelings; darling or sweetheart\nClematis vitalba\nhave a strong affection for\nbe strongly inclined towards doing\neuphemistic\nadulterous relationship\nan instantaneous attraction",
+    "nature": "n",
+    "rarity": 0.045,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:49.756737"
+  },
+  {
+    "en": "people",
+    "fr": "gens ",
+    "mean": "a body of human beings; a group of two or more persons\na group of persons forming or belonging to a particular nation etc.\na group of persons regarded as being employees etc.\na person's ancestors, relatives or family\nthe mass of community as distinguished from a special class\nto fill with people\nto become populous\nto inhabit, to occupy",
+    "nature": "n",
+    "rarity": 0.327,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:52.936296"
+  },
+  {
+    "en": "floor",
+    "fr": "sol , plancher ",
+    "mean": "bottom part of a room\nlower inside surface of a hollow space\nhorizontal structure dividing a building\nright to speak\nmathematics: the largest integer less than or equal to a given number\nstorey of a building\ndance floor",
+    "nature": "n",
+    "rarity": 0.0361,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:53.804209"
+  },
+  {
+    "en": "true",
+    "fr": "vrai",
+    "mean": "concurring with a given set of facts\nA state in Boolean logic that indicates an affirmative or positive result\nLoyal, faithful\nstrict follower of a doctrine\none who believes in something dogmatically even if it is proven false; a sufferer of true-believer syndrome\nany of various insects of the order Hemiptera and in particular of the suborder Heteroptera\nhaving as answers only true or false\nearless seal\nnot in danger\nfree from risk\nproviding protection from danger\nbaseball: in the base\nproperly secured",
+    "nature": "adj",
+    "rarity": 0.0278,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:54.867835"
+  },
+  {
+    "en": "earth",
+    "fr": "terre ",
+    "mean": "soil\nany general rock-based material\nthe ground, land\nelectrical connection\nfox's lair\nworld of our current life, as opposed to afterlife\none of the four basic elements\none of the five basic elements\nconnect electrically to the earth\nto bury\nour planet, third out from the Sun",
+    "nature": "n",
+    "rarity": 0.0269,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:55.479144"
+  },
+  {
+    "en": "after",
+    "fr": "apr\u00e8s",
+    "mean": "subsequently; following in time; later than\nbehind\nin allusion to, in imitation of; following or referencing\nnext in importance or rank\nas a result of\nin spite of\nSignifies that the action of its clause takes place before the action of the other clause\nin the end; anyway",
+    "nature": "prep",
+    "rarity": 0.162,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:56.117683"
+  },
+  {
+    "en": "emperor",
+    "fr": "empereur ",
+    "mean": "ruler of an empire\nlargest penguin\nbag stitched to an item of clothing",
+    "nature": "n",
+    "rarity": 0.00939,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:56.371236"
+  },
+  {
+    "en": "then",
+    "fr": "alors, \u00e0 cette \u00e9poque-l\u00e0",
+    "mean": "at that time\nsoon afterward\nnext in order\nin that case\nat the same time; on the other hand",
+    "nature": "adv",
+    "rarity": 0.378,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:57.019322"
+  },
+  {
+    "en": "there",
+    "fr": "l\u00e0, l\u00e0-bas, y",
+    "mean": "in or at that place\nto or into that place; thither",
+    "nature": "adv",
+    "rarity": 0.458,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:57.249406"
+  },
+  {
+    "en": "palace",
+    "fr": "palais \n",
+    "mean": "large, lavish residence\nflying noun",
+    "nature": "n",
+    "rarity": 0.0164,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:01:58.122085"
+  },
+  {
+    "en": "take",
+    "fr": "prendre\ne\nt comptant",
+    "mean": "to grab with the hands\nto grab and move to oneself\nto get into one's possession\nto gain a position by force\nto have sex with\nto endure\nto ingest medicine\nto last or expend [an amount of time]\nfilm: attempt to record a scene\nto bathe\nto take a break\nto act, especially decisively\ndefecate\nprofit from a situation\nmake use of\nto resemble in appearance or habit\nto examine or observe\ndefeat\ndisassemble\ncapture an image\nto run away\nsit down\nto take away",
+    "nature": "v",
+    "rarity": 0.0854,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:02:00.580590"
+  },
+  {
+    "en": "front",
+    "fr": "porte-parole  ",
+    "mean": "to lead or be the spokesperson of a group\nto make happy or satisfy",
+    "nature": "v",
+    "rarity": 0.0477,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:02:17.321254"
+  },
+  {
+    "en": "girl",
+    "fr": "fille , jeune fille \n\n",
+    "mean": "young female person\nwoman\nfemale servant",
+    "nature": "n",
+    "rarity": 0.0453,
+    "short_memory": 0,
+    "long_memory": 0,
+    "date": "2023-08-23T16:02:18.375709"
+  },
+  {
+    "en": "far",
+    "fr": "lointain, \u00e9loign\u00e9, recul\u00e9",
+    "mean": "remote in space\nremote in time\nextreme\ndistant in space, time, or degree\nto or from a great distance, time, or degree\ncontext: with a comparative",
+    "nature": "adj",
+    "rarity": 0.03,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:02:18.834543"
+  },
+  {
+    "en": "outside",
+    "fr": "ext\u00e9rieur \n",
+    "mean": "outer surface\npertaining to the outer surface or boundary\npertaining to beyond the outer boundary\nin or to the outside\noutdoors\non the outside of",
+    "nature": "n",
+    "rarity": 0.0376,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:14.397949"
+  },
+  {
+    "en": "open",
+    "fr": "ouvert\n, [5,6] s'ouvrir",
+    "mean": "not closed\nprepared to conduct business\nreceptive\npublic\nto make something accessible\nto become open\nopen space\npublic knowledge; to bring into\nsports event",
+    "nature": "adj",
+    "rarity": 0.0455,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:14.911382"
+  },
+  {
+    "en": "have",
+    "fr": "avoir\n\u00eatre n\u00e9 de la derni\u00e8re pluie\ns vues sur\nyeux que pour",
+    "mean": "to possess\nto partake of something\nto experience, go through\nauxiliary used in forming the perfect and the past perfect tenses\nengage in sexual intercourse with\nto trick\nmust\nhave a complaint or grievance\nTo be pregnant; to be expecting a baby\nto attempt something\nto have an erect penis\nexamine, observe\nengage in a relationship while married\ngoodbye\nbe deluded\nto voice one's opinion\nto be insane, irrational, or eccentric\nto sit down\npolite directive\nslang\nbe skilled\nto enjoy oneself greatly\nto be crazy or eccentric\nbe responsible for a violent act\nbe nervous\nhave eyes bigger than one's stomach\ntake more food than one can eat\nperceived ability to see\nobserve\nenjoy oneself\nwish someone a good time\nto have endured all that one can\nTo have reached the limit of one's patience\nconsider, intend\nto be angry at\ndo something the way you want to\nhave endurance\nto be able\nmay",
+    "nature": "v",
+    "rarity": 0.309,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:15.662513"
+  },
+  {
+    "en": "safe",
+    "fr": "coffre-fort , coffre ",
+    "mean": "box in which valuables can be locked for safekeeping\nhaving come to no harm",
+    "nature": "n",
+    "rarity": 0.0276,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:16.702851"
+  },
+  {
+    "en": "escape",
+    "fr": "\u00e9chapper, s'\u00e9chapper",
+    "mean": "to get free\nto elude\nto avoid capture\nact of leaving a dangerous or unpleasant situation\nminimum velocity",
+    "nature": "v",
+    "rarity": 0.0146,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:24.481969"
+  },
+  {
+    "en": "came",
+    "fr": "plomb ",
+    "mean": "A grooved strip of lead",
+    "nature": "n",
+    "rarity": 0.161,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:27.010781"
+  },
+  {
+    "en": "perhaps",
+    "fr": "peut-\u00eatre, possiblement",
+    "mean": "indicating a lack of certainty",
+    "nature": "adv",
+    "rarity": 0.0717,
+    "short_memory": 0,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:31.757253"
+  },
+  {
+    "en": "anything",
+    "fr": "n\u2019importe quoi, [in negative sentences] rien",
+    "mean": "any thing of any kind\nnot at all\nany other thing",
+    "nature": "pron",
+    "rarity": 0.0498,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:33.481091"
+  },
+  {
+    "en": "felt",
+    "fr": "feutre , feutrine ",
+    "mean": "cloth made of matted fibres of wool\nhat made of felt\nfacing side\nmain entrance side\npublic face of covert organisation\nmeteorology: interface between airmasses\nmilitary: area or line of conflict",
+    "nature": "n",
+    "rarity": 0.0477,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:46.636136"
+  },
+  {
+    "en": "great",
+    "fr": "chouette, g\u00e9nial, tr\u00e8s bien",
+    "mean": "great!",
+    "nature": "interj",
+    "rarity": 0.0688,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:47.855746"
+  },
+  {
+    "en": "four",
+    "fr": "quatre",
+    "mean": "the cardinal number 4\ndigit or figure 4\nbasketball: power forward\nJew",
+    "nature": "num",
+    "rarity": 0.0478,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:50.081628"
+  },
+  {
+    "en": "fuel",
+    "fr": "carburant , combustible",
+    "mean": "substance consumed to provide energy\nto exacerbate, to cause to grow or become greater\na container of fuel\nparticular way of phrasing an idea\ncolloquialism or idiom\nfacial appearance\nmathematics: arrangement of symbols\nprocess of translating a gene into a protein\ncomputing",
+    "nature": "n",
+    "rarity": 0.00812,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:50.704849"
+  },
+  {
+    "en": "always",
+    "fr": "toujours",
+    "mean": "at all times",
+    "nature": "adv",
+    "rarity": 0.0809,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:10:57.776919"
+  },
+  {
+    "en": "table",
+    "fr": "mettre la table",
+    "mean": "to put on a table",
+    "nature": "v",
+    "rarity": 0.0327,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:11:11.974587"
+  },
+  {
+    "en": "any",
+    "fr": "[with a negative particle] aucun",
+    "mean": "at least one kind\nno matter what kind",
+    "nature": "determiner",
+    "rarity": 0.0789,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T16:11:12.402775"
+  },
+  {
+    "en": "food",
+    "fr": "nourriture , alimentation , manger , bouffe ",
+    "mean": "any substance consumed by living organisms to sustain life\nfoodstuff",
+    "nature": "n",
+    "rarity": 0.0605,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T18:19:26.630436"
+  },
+  {
+    "en": "for",
+    "fr": "parce que, car\n",
+    "mean": "because\ntowards\ndirected at, intended to belong to\nsupporting\nbecause of\nover a period of time\nin order to obtain or acquire",
+    "nature": "conj",
+    "rarity": 0.715,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T18:46:53.992501"
+  },
+  {
+    "en": "two",
+    "fr": "deux",
+    "mean": "numerical value\ndigit or figure\ntwo-dollar bill",
+    "nature": "num",
+    "rarity": 0.175,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T18:48:05.022538"
+  },
+  {
+    "en": "early",
+    "fr": "de bonne heure, t\u00f4t",
+    "mean": "at a time in advance of the usual\narriving at a time before expected\nnear the start or beginning\nillness: having begun to occur\nat a time before expected",
+    "nature": "adj",
+    "rarity": 0.0235,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T18:59:30.941463"
+  },
+  {
+    "en": "afternoon",
+    "fr": "apr\u00e8s-midi  ",
+    "mean": "part of the day between noon and evening\nplace of long-term confinement for those convicted of serious crimes\nconfinement in a prison",
+    "nature": "n",
+    "rarity": 0.0218,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T19:03:33.704011"
+  },
+  {
+    "en": "once",
+    "fr": "une fois",
+    "mean": "t\nformerly\nas soon as\nas soon as",
+    "nature": "adv",
+    "rarity": 0.0386,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T20:18:56.045557"
+  },
+  {
+    "en": "again",
+    "fr": "de nouveau, encore",
+    "mean": "another time\nused in a question to ask something one has forgotten",
+    "nature": "adv",
+    "rarity": 0.16,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T20:19:16.100785"
+  },
+  {
+    "en": "its",
+    "fr": "son , sa , ses ",
+    "mean": "belonging to it\nthat which belongs to it",
+    "nature": "determiner",
+    "rarity": 0.242,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T20:22:34.459072"
+  },
+  {
+    "en": "ill",
+    "fr": "",
+    "mean": "bad\nin poor health, suffering from a disease\nhaving an urge to vomit\nnot well",
+    "nature": "adj",
+    "rarity": 0.0895,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T20:23:28.646824"
+  },
+  {
+    "en": "into",
+    "fr": "dans, \u00e0 l'int\u00e9rieur de",
+    "mean": "going inside\ngoing to a geographic region\nagainst, with force\nproducing, becoming\ninvestigating the subject",
+    "nature": "prep",
+    "rarity": 0.214,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T20:23:29.847474"
+  },
+  {
+    "en": "hatter",
+    "fr": "chapelier",
+    "mean": "person who makes, sells, or repairs hats",
+    "nature": "n",
+    "rarity": 0.00993,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T20:23:31.058545"
+  },
+  {
+    "en": "train",
+    "fr": "s'entra\u00eener, entra\u00eener, exercer",
+    "mean": "to practice an ability\nto teach a task\nto improve one's fitness\nto move a gun",
+    "nature": "v",
+    "rarity": 0.0153,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T20:23:32.770196"
+  },
+  {
+    "en": "day",
+    "fr": "jour , journ\u00e9e ",
+    "mean": "period of 24 hours\nperiod from midnight to the following midnight\nrotational period of a planet\npart of a day period which one spends at one\u2019s job, school, etc.\nperiod between sunrise and sunset",
+    "nature": "n",
+    "rarity": 0.15,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T20:23:34.746824"
+  },
+  {
+    "en": "away",
+    "fr": "loin",
+    "mean": "from a place; hence",
+    "nature": "adv",
+    "rarity": 0.126,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-08-23T20:27:32.255231"
+  },
+  {
+    "en": "little",
+    "fr": [
+      "petit",
+      "cadet",
+      "peu",
+      "peu, peu de"
+    ],
+    "mean": [
+      "small in size",
+      "of a sibling",
+      "not much",
+      "small amount"
+    ],
+    "nature": "adj",
+    "rarity": 0.127,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-09-01T18:33:15.348583"
+  },
+  {
+    "en": "are",
+    "fr": "es, \u00eates [formal]",
+    "mean": "\u0279\nsecond-person plural simple present indicative form of be\nfirst-person plural simple present indicative form of be\nthird-person plural simple present indicative form of be\nunit of area\nbe",
+    "nature": "v",
+    "rarity": 0.373,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T20:27:35.283833"
+  },
+  {
+    "en": "first",
+    "fr": "premier; -uni\u00e8me [used in compounds]",
+    "mean": "numeral first, see also: 1st\nbefore anything else\nperson or thing in the first position\nnew occurrence\nfirst gear\nbaseball: first base\nbasic care\nalone in a category\nwithout sibling",
+    "nature": "adj",
+    "rarity": 0.15,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:48.698743"
+  },
+  {
+    "en": "look",
+    "fr": "regarder",
+    "mean": "to try to see\nto appear, to seem\ngive an appearance of being\nto face\naction of looking\nphysical appearance\nfacial expression\nto watch, to protect",
+    "nature": "v",
+    "rarity": 0.111,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:50.181290"
+  },
+  {
+    "en": "or",
+    "fr": "ou",
+    "mean": "conjunction\ngold or yellow tincture\nof yellow or gold tincture on a coat of arms",
+    "nature": "conj",
+    "rarity": 0.243,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:54.432160"
+  },
+  {
+    "en": "time",
+    "fr": "chronom\u00e9trer",
+    "mean": "to measure time\ninevitable passing of events\nquantity of availability in time\nslang: serving of a prison sentence\ntime of day, as indicated by a clock, etc\ninstance or occurrence\nera\nagain and again\noften; repeatedly\nbomb with a timeout mechanism\nsealed container",
+    "nature": "v",
+    "rarity": 0.228,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:59.710733"
+  },
+  {
+    "en": "other",
+    "fr": "autre\n",
+    "mean": "\u0279\nnot the one referred to\nother days, other ways",
+    "nature": "adj",
+    "rarity": 0.179,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:09:45.523122"
+  },
+  {
+    "en": "as",
+    "fr": "aussi",
+    "mean": "to such an extent or degree\nin the same way that\nat the same instant that\nat the same time that\nvarying through time to the same proportion that\nconsidering that, because\nintroducing a basis of comparison\nIntroducing a basis of comparison\nIn the role of\nRoman coin\nrelative conjunction\nexpressing concession\nthan\nas if\nfor example",
+    "nature": "adv",
+    "rarity": 0.339,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:46.855096"
+  },
+  {
+    "en": "one",
+    "fr": "expressed by nominalization when following an adjective, on",
+    "mean": "impersonal pronoun\nindefinite personal pronoun\ndigit or figure\ndollar bill\na single, unspecified thing\nbeing an unknown person with the specified name\nordinal number\nordinal number\ncardinal number 1\nin single file\none and a half\nidiomatic, reciprocal pronoun\nthird personal plural pronoun used after a preposition or as the object of a verb",
+    "nature": "pron",
+    "rarity": 0.325,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:56.568965"
+  },
+  {
+    "en": "remember",
+    "fr": "se rappeler, se souvenir, se rem\u00e9morer",
+    "mean": "to recall from one's memory\nto memorize\nto not forget to do something required\nobsolete\nlook at and interpret letters or other information\nspeak aloud words or other information that is written\nhave the ability to read text or other information\nof text, etc., to be interpreted or read in a particular way\nbe able to hear in a radio communication\nmake a study of",
+    "nature": "v",
+    "rarity": 0.0453,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:50.598578"
+  },
+  {
+    "en": "police",
+    "fr": "police ",
+    "mean": "an organisation that enforces the law\nautomobile used by a police officer\ntrained dog for police work\npolice organization, constabulary",
+    "nature": "n",
+    "rarity": 0.0527,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:52.276164"
+  },
+  {
+    "en": "face",
+    "fr": "",
+    "mean": "to face\nposition oneself towards\nhave its front closest to\ndeal with, confront\ntypography: typeface\ncomputing: interface\none's complete facial cosmetic application\namount expressed on a bill, note, bond, etc.\nfront part of head\nfacial expression\npublic image\nsurface, especially a front or outer one\ngeometry: bounding surface of a polyhedron\nslang: the mouth",
+    "nature": "v",
+    "rarity": 0.0805,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:58.591897"
+  },
+  {
+    "en": "that",
+    "fr": "que",
+    "mean": "connecting a noun clause\nconnecting a clause indicating purpose \"final\"\nwhat is being indicated\nthat thing\nwhich\nto a given extent or degree\nto a great extent or degree, very\nthat said",
+    "nature": "conj",
+    "rarity": 0.906,
+    "short_memory": 1,
+    "long_memory": 1,
+    "date": "2023-08-23T16:09:59.201929"
+  },
+  {
+    "en": "than",
+    "fr": "que",
+    "mean": "Introduces a comparison",
+    "nature": "prep",
+    "rarity": 0.105,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:45.859808"
+  },
+  {
+    "en": "from",
+    "fr": "de, dans, sur\n",
+    "mean": "with the source or provenance of or at\nwith the origin, starting point or initial reference of or at\nwith the separation, exclusion or differentiation of\ncomprehensively\nfrom sunset to sunrise\nfrom now, indefinitely\nfrom the beginning\nfrom beginning to end\nin earnest, with one's full feelings\nfrom the very beginning\nfrom the beginning\noccasionally\nall over",
+    "nature": "prep",
+    "rarity": 0.401,
+    "short_memory": 1,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:45.207203"
+  },
+  {
+    "en": "is",
+    "fr": "y a-t-il un m\u00e9decin ici ?",
+    "mean": "is anyone here a doctor?",
+    "nature": "phrase",
+    "rarity": 0.623,
+    "short_memory": 1,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:46.285421"
+  },
+  {
+    "en": "back",
+    "fr": "de derri\u00e8re",
+    "mean": "near the rear\nfar from the main area\nphonetics: produced in the back of the mouth\nto or in a previous condition or place\nthe rear of body\nthe reverse side\nthat which is farthest away from the front\nthe part of something that goes last\na position behind most players on the team\nto go in the reverse direction\nto support",
+    "nature": "adj",
+    "rarity": 0.217,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:47.263345"
+  },
+  {
+    "en": "about",
+    "fr": "autour de",
+    "mean": "on every side of\nnear, approximately, regarding time, size or quantity\non the point or verge of\nover or upon different parts of\nconcerned with, engaged in\nconcerning\nin the immediate neighborhood of\nnearly, approximately",
+    "nature": "prep",
+    "rarity": 0.37,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:48.476822"
+  },
+  {
+    "en": "left",
+    "fr": "gauche",
+    "mean": "the west side of the body when one is facing north\non the left side\ntowards the left side\nthe left side\nthe ensemble of left-wing political parties\nremaining\nall over the place\nbank to the left when facing downstream",
+    "nature": "adj",
+    "rarity": 0.0821,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T16:01:54.221520"
+  },
+  {
+    "en": "on",
+    "fr": "allum\u00e9\n",
+    "mean": "in the state of being active, functioning or operating\ndestined\ncontinuing an action\nalong, forwards continuing an action\npositioned at the upper surface of\ncovering\nat the date of\nsome time during the day of\ndealing with the subject of\ntouching; hanging from\nbecause of, or due to something\nused to indicate means or medium",
+    "nature": "adj",
+    "rarity": 0.655,
+    "short_memory": 0,
+    "long_memory": 1,
+    "date": "2023-08-23T18:46:26.617917"
+  },
+  {
+    "en": "it",
+    "fr": "il , elle , ce {n}, \u00e7a {n}",
+    "mean": "subject \u2014 inanimate thing\nobject\nsubject of impersonal statement\nimpersonal pronoun, used without referent\nimpersonal pronoun, used as a placeholder",
+    "nature": "pron",
+    "rarity": 1.11,
+    "short_memory": 1,
+    "long_memory": 2,
+    "date": "2023-08-23T16:01:50.988261"
+  },
+  {
+    "en": "all",
+    "fr": "[before a countable noun] tous les {m-p}, toutes les ; [before an uncountable noun] tout le , toute la \n",
+    "mean": "every individual of the given class\nthroughout the whole of a stated period of time\nintensifier\neverything possible\neveryone\neverything\nduration\nall; everyone\neach one",
+    "nature": "determiner",
+    "rarity": 0.325,
+    "short_memory": 0,
+    "long_memory": 2,
+    "date": "2023-08-23T16:01:57.457546"
+  },
+  {
+    "en": "this",
+    "fr": "ce , cette , ce ... ci , cette ... ci ",
+    "mean": "the thing\nknown thing\nknown thing\nknown thing\nwhich is current\nThe thing, item, etc. being indicated\nduring the evening of today\nduring the morning of today\na specified object",
+    "nature": "determiner",
+    "rarity": 0.436,
+    "short_memory": 1,
+    "long_memory": 2,
+    "date": "2023-08-23T16:10:48.983352"
+  },
+  {
+    "en": "can",
+    "fr": "bidon , canette ",
+    "mean": "a more or less cylindrical vessel for liquids\na container used to carry and dispense water for plants\na tin-plate canister\nnon-offensive slang for toilet, see also: toilet\nbuttocks\nto preserve\nto discard\nto shut up\nchamber pot",
+    "nature": "n",
+    "rarity": 0.277,
+    "short_memory": 1,
+    "long_memory": 2,
+    "date": "2023-08-23T16:01:51.421249"
+  },
+  {
+    "en": "at",
+    "fr": "\u00e0, en",
+    "mean": "in or very near a particular place\nindicating time\nin the direction of\ndenoting a price\noccupied in activity\nat sign\non cursory examination\nat a glance\nat all\nsparing no effort\nbelow the cost or price of purchase\nnot sure; uncertain; lacking further ideas, direction, or ability\nhaving nothing to say",
+    "nature": "prep",
+    "rarity": 0.693,
+    "short_memory": 0,
+    "long_memory": 3,
+    "date": "2023-08-23T16:01:51.630145"
+  },
+  {
+    "en": "said",
+    "fr": "ledit",
+    "mean": "mentioned earlier\nagreed to and accomplished or finished",
+    "nature": "determiner",
+    "rarity": 0.825,
+    "short_memory": 1,
+    "long_memory": 3,
+    "date": "2023-08-23T16:01:57.674517"
+  },
+  {
+    "en": "in",
+    "fr": "\u00e0 l'int\u00e9rieur",
+    "mean": "indoors; at home or the office and available for conversation\nposition of power\nin fashion, popular\nincoming",
+    "nature": "adv",
+    "rarity": 1.69,
+    "short_memory": 1,
+    "long_memory": 3,
+    "date": "2023-08-23T16:01:47.473085"
+  },
+  {
+    "en": "they",
+    "fr": "ils , elles , [tonic] eux {m-p}",
+    "mean": "third-person plural pronoun\nthird-person plural pronoun\nthird-person singular, of unknown or irrelevant gender\none, people, some people",
+    "nature": "pron",
+    "rarity": 0.708,
+    "short_memory": 1,
+    "long_memory": 3,
+    "date": "2023-08-23T16:01:49.974465"
+  },
+  {
+    "en": "of",
+    "fr": "moins",
+    "mean": "time\nintroducing an epithet\ncontaining, comprising or made from\nlinking class with example of class\nintroducing subject matter\nconnecting numeral or quantifier with quantified\npossessive genitive: belonging to\nobjective genitive: connecting noun with object\nindicative of age\nold enough to be considered an adult\ninformal\npreferred above others\nof a race other than white euphemistic\n\u0279\nindication of enthusiastic agreement\ncontained by\nsurrounded by\npart, member of\npertaining to\nafter a period of time\nwithin a certain elapsed time\nby the virtue of\ninto\nduring\na state\nlanguage, script, or tone",
+    "nature": "prep",
+    "rarity": 1.78,
+    "short_memory": 0,
+    "long_memory": 4,
+    "date": "2023-08-23T16:01:49.534867"
+  },
+  {
+    "en": "to",
+    "fr": "-er [1st conjugation], -re [2nd conjugation], -ir [3rd conjugation]\n",
+    "mean": "infinitive-marker\nparticle used to create phrasal verbs\nin the direction of, and arriving at\nused after certain adjectives to indicate a relationship\nused to indicate ratios\nused to indicated exponentiation\ntime: preceding",
+    "nature": "particle",
+    "rarity": 2.68,
+    "short_memory": 1,
+    "long_memory": 7,
+    "date": "2023-08-23T16:01:52.498163"
+  },
+  {
+    "en": "and",
+    "fr": "et",
+    "mean": "used to connect two similar words, phrases, et cetera\nused at the end of a list to indicate the last item\nused to string together sentences or sentence fragments in chronological order\nidiomatic: including every item associated with preceding item or items\nidiomatic: used to suggest certain unstated relevant implications or what has been stated",
+    "nature": "conj",
+    "rarity": 3.08,
+    "short_memory": 0,
+    "long_memory": 8,
+    "date": "2023-08-23T16:01:47.665032"
+  },
+  {
+    "en": "the",
+    "fr": "le , la , les , l' (before a vowel or a mute h)",
+    "mean": "article\nused as an alternative to a possessive pronoun before body parts\nstressed, indicating that the object in question is the only one worthy of attention\nwith an adjectival noun, as in \u201cthe hungry\u201d to mean \u201chungry people\u201d\nwith a superlative\nused with the name of a member of a class to refer to all things in that class\nthe + comparative, the + comparative",
+    "nature": "article",
+    "rarity": 5.94,
+    "short_memory": 0,
+    "long_memory": 8,
+    "date": "2023-08-23T16:01:45.666358"
+  }
+]
