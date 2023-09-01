@@ -5,24 +5,12 @@ from datetime import datetime
 
 
 def flashcard(word):
-    print(
-        '1 : Je sais!', 
-        ' '*5, 
-        word['en'], 
-        '(', 
-        word['nature'], 
-        ')', 
-        ' '*5,
-        '2 : Je sais pas!'
-
-    )
-    print('\n'*10)
     while True:
         try:
-            choice = int(input())
+            choice = int(input(
+                '1 : Je sais!' + ' '*5 + str(word['en']) + '(' + str(word['nature']) + ')' + ' '*5 + '2 : Je sais pas!'))
             break 
         except: pass
-    print('\n'*10)
     print(
         word['en'],
         '=',
@@ -30,7 +18,8 @@ def flashcard(word):
         '\n'
         '==========Definitions==========',
         '\n',
-        word['mean']
+        word['mean'],
+        '\n'*10
     )
 
     if choice == 1:
