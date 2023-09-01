@@ -30,6 +30,10 @@ def qcm(word):
     return flashcard(word)
          
 
+def question(word):
+    return flashcard(word)
+         
+
 def main():
     
     # loading
@@ -67,15 +71,21 @@ def main():
                 if word['long_memory'] == i:
                     if word['short_memory'] == 0:
                         if flashcard(word):
-                            word['short_memory'] = 1
+                            word['short_memory'] += 1
                         else:
                             word['short_memory'] = 0
                     elif word['short_memory'] == 1:
                         if qcm(word):
+                            word['short_memory'] += 1
+                        else:
+                            word['short_memory'] = 0
+                    elif word['short_memory'] == 2:
+                        if question(word):
                             word['long_memory'] +=1
                             word['short_memory'] = 0
                         else:
                             word['short_memory'] = 0
+
 
         # save
         with open('user/studied-words.json', "w", encoding='utf-8') as f:
