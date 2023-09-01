@@ -530,6 +530,30 @@
     "date": "2023-09-01T18:33:15.348583"
   },
   {
+    "en": "fruit",
+    "fr": [
+      "fruit ",
+      "fruit ",
+      "fruit ",
+      "fruit ",
+      "p\u00e9d\u00e9 , [effeminate] folle ",
+      "affruiter"
+    ],
+    "mean": [
+      "part of plant",
+      "food",
+      "figuratively: positive end result or reward of labour or effort",
+      "figuratively: child of a marriage",
+      "offensive slang: homosexual or effeminate man",
+      "to produce fruit"
+    ],
+    "nature": "n",
+    "rarity": 0.0105,
+    "short_memory": 1,
+    "long_memory": 0,
+    "date": "2023-09-01T19:13:28.739373"
+  },
+  {
     "en": "are",
     "fr": "es, \u00eates [formal]",
     "mean": "\u0279\nsecond-person plural simple present indicative form of be\nfirst-person plural simple present indicative form of be\nthird-person plural simple present indicative form of be\nunit of area\nbe",
@@ -545,7 +569,7 @@
     "mean": "numeral first, see also: 1st\nbefore anything else\nperson or thing in the first position\nnew occurrence\nfirst gear\nbaseball: first base\nbasic care\nalone in a category\nwithout sibling",
     "nature": "adj",
     "rarity": 0.15,
-    "short_memory": 0,
+    "short_memory": 1,
     "long_memory": 1,
     "date": "2023-08-23T16:01:48.698743"
   },
@@ -645,7 +669,7 @@
     "mean": "connecting a noun clause\nconnecting a clause indicating purpose \"final\"\nwhat is being indicated\nthat thing\nwhich\nto a given extent or degree\nto a great extent or degree, very\nthat said",
     "nature": "conj",
     "rarity": 0.906,
-    "short_memory": 1,
+    "short_memory": 0,
     "long_memory": 1,
     "date": "2023-08-23T16:09:59.201929"
   },
@@ -770,16 +794,6 @@
     "date": "2023-08-23T16:01:51.630145"
   },
   {
-    "en": "said",
-    "fr": "ledit",
-    "mean": "mentioned earlier\nagreed to and accomplished or finished",
-    "nature": "determiner",
-    "rarity": 0.825,
-    "short_memory": 1,
-    "long_memory": 3,
-    "date": "2023-08-23T16:01:57.674517"
-  },
-  {
     "en": "in",
     "fr": "\u00e0 l'int\u00e9rieur",
     "mean": "indoors; at home or the office and available for conversation\nposition of power\nin fashion, popular\nincoming",
@@ -798,6 +812,16 @@
     "short_memory": 1,
     "long_memory": 3,
     "date": "2023-08-23T16:01:49.974465"
+  },
+  {
+    "en": "said",
+    "fr": "ledit",
+    "mean": "mentioned earlier\nagreed to and accomplished or finished",
+    "nature": "determiner",
+    "rarity": 0.825,
+    "short_memory": 0,
+    "long_memory": 4,
+    "date": "2023-08-23T16:01:57.674517"
   },
   {
     "en": "of",
