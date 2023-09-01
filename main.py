@@ -1,5 +1,4 @@
 from random import choices
-from time import time
 import json
 from datetime import datetime
 
