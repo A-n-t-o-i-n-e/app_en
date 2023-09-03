@@ -87,4 +87,14 @@ def main():
         
 
 if __name__ == '__main__':
+    try:
+        open('user/studied-words.json', "x", encoding='utf-8')
+        with open('user/studied-words.json', "w", encoding='utf-8') as f:
+            json.dump([], f, sort_keys=True, indent=2)
+    except: pass
+    try:
+        with open('user/stats.json', "x", encoding='utf-8') as fp:
+            json.dump(x = None)   
+    except:pass
+    
     main()
