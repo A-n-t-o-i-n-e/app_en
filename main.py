@@ -1,16 +1,9 @@
 from random import choices
-from time import time
+import math
 import json
 from datetime import datetime
 
-
-def flashcard(word):
-    while True:
-        try:
-            choice = int(input(
-                '1 : Je sais!' + ' '*5 + str(word['en']) + '(' + str(word['nature']) + ')' + ' '*5 + '2 : Je sais pas!'))
-            break 
-        except: pass
+def _print(word):
     print(
         word['en'],
         '=',
@@ -22,13 +15,31 @@ def flashcard(word):
         '\n'*10
     )
 
-    if choice == 1:
+
+def flashcard(word):
+    while True:
+        try:
+            ans = int(input(
+                '1 : Je sais!' + ' '*5 + str(word['en']) + '(' + str(word['nature']) + ')' + ' '*5 + '2 : Je sais pas!'))
+            break 
+        except: pass
+
+
+    if ans == 1:
         return True
     return False
 
 
 def qcm(word):
     return flashcard(word)
+         
+
+def question(word):
+    ans = input('What does "' + str(word['en']) + '" mean in french? ')
+    for traduction in word['fr']:
+        if ans == traduction or ans in traduction.split(','):
+            return True
+    return False
          
 
 def main():
@@ -65,18 +76,31 @@ def main():
             studied_words.append(word)
 
         for i in range(7, -1, -1):
-                if word['long_memory'] == i:
-                    if word['short_memory'] == 0:
-                        if flashcard(word):
-                            word['short_memory'] = 1
-                        else:
-                            word['short_memory'] = 0
-                    elif word['short_memory'] == 1:
-                        if qcm(word):
-                            word['long_memory'] +=1
-                            word['short_memory'] = 0
-                        else:
-                            word['short_memory'] = 0
+            if word['long_memory'] == i:
+                if word['short_memory'] == 0:
+                    if flashcard(word):
+                        print('flashcard ok')
+                        word['short_memory'] += 1
+                    else:
+                        print('flashcard non')
+                        word['short_memory'] = 0
+                elif word['short_memory'] == 1:
+                    if qcm(word):
+                        print('qcm')
+                        word['short_memory'] += 1
+                    else:
+                        print('qcm non')
+                        word['short_memory'] = 0
+                elif word['short_memory'] == 2:
+                    if question(word):
+                        print('question')
+                        word['long_memory'] +=1
+                        word['short_memory'] = 0
+                    else:
+                        print('question non')
+                        word['short_memory'] = 0   
+                _print(word)
+
 
         # save
         with open('user/studied-words.json', "w", encoding='utf-8') as f:
@@ -87,4 +111,5 @@ def main():
         
 
 if __name__ == '__main__':
-    main()
+    # main()
+    print(math.pi)

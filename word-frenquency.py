@@ -61,8 +61,7 @@ def in_char(str, punc):
 #     "rarity": 5.94
 # }
 
-time = 0
-
+# create the list dictionary thanks to the file en-fr-enwiktionary.txt
 dictionary = []
 info_word = {
     'en' : 'demo', 
@@ -116,31 +115,10 @@ for key in word_frenquency:
                     if mean != None and not mean in dictionary[-1]['mean']:
                         dictionary[-1]['mean'].append(mean)
                     else: dictionary[-1]['fr'].pop()
-    print(time)
-    time +=1
 
 
 
-with open('dictionary/dictionary.json', "w", encoding='utf-8') as f:
-    json.dump(dictionary, f, sort_keys=True, indent=2)
-
-
-'''
-# code a utiliser dans le main pour avoir acces a tout le dico
-with open('dictionary/dictionary.json', "r", encoding='utf-8') as fp:
-    data = json.load(fp)'''
-
-
-'''
-# view
-d =  dict(list(dict_f().items())[:20])
-end = [1, ' '*15]
-for k in d:
-    if end[0] == 3:
-        end[0], end[1] = 0, "\n"
-    print(k, d[k], end=end[1])
-    end[1] = ' '*15
-    end[0] += 1
-
-print(len(dict_f()))
-'''
+with open('dictionary/dictionary.json', "w", encoding='utf-8') as fp:
+    json.dump(dictionary, fp, sort_keys=True, indent=2)
+# with open('dictionary/dictionary.json', "r", encoding='utf-8') as fp:
+#     data = json.load(fp)
